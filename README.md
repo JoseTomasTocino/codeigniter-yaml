@@ -1,7 +1,5 @@
 # CodeIgniterYAML
 
-* Author: [Dan Horrigan](http://dhorrigan.com/)
-
 ## Description
 
 CodeIgniterYAML is a simple library that acts as a wrapper for the [Spyc YAML Parser](https://github.com/mustangostang/spyc/).
